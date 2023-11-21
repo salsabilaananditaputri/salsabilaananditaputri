@@ -51,7 +51,7 @@ form .submit:hover{
     cursor: pointer;
 }
 
-.about a{
+.contact a{
     color: yellow;
     text-decoration: none;
     margin-left: 15px;
@@ -59,7 +59,7 @@ form .submit:hover{
 
 }
 
-.about{
+.contact{
     display:flex;
     justify-content: space-between;
     align-items: center;

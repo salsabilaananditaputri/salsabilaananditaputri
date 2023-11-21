@@ -1,8 +1,8 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: rgb(56, 51, 51);
     font-family: sans-serif;
+    background-color: rgb(63, 60, 60);
 }
 
 header{
@@ -66,7 +66,6 @@ h2,span{
     margin-left: 20px;
     font-size: 40px;
     text-align: center;
-    border-bottom: 3px solid white;
 }
 
 .awal{
@@ -128,6 +127,7 @@ h1{
 .about h2{
     justify-content: center;
     display:flex;
+    padding-left: 70px;
 }
 
 .image{
@@ -184,4 +184,6 @@ h1{
     justify-content: center;
     display:flex;
 }
+
+
 
