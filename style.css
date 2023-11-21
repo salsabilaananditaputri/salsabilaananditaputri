@@ -57,11 +57,7 @@ nav li a:hover{
     to{background-color:white;}
 }
 
-span{
-    color:rgb(255, 233, 192);
-}
-
-h2,span{
+h2{
     margin-top: 10px;
     margin-left: 20px;
     font-size: 40px;
